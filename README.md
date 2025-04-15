@@ -10,8 +10,7 @@ Problem Statement: Write a Python program that does the following:
   3.  Displays the results of each operation on the screen.
  Expected Output:
   The output should include the result of each operation performed, for example:
-![Uploading Screenshot 2025-04-15 at 1.13.02 PM.png…]()
-
+<img width="547" alt="Screenshot 2025-04-15 at 1 13 02 PM" src="https://github.com/user-attachments/assets/509a6f9f-ddc9-4c75-ab77-c0ebb2a3597e" />
 
 Task 2: Create a Personalized Greeting
   Problem Statement: Write a Python program that:
